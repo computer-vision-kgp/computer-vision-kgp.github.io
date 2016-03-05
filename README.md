@@ -1,4 +1,4 @@
-# kgp.github.io
+# cvkgp.github.io
 Website for the Paper Reading Group
 
 To upload the slides, papers etc from your session :
